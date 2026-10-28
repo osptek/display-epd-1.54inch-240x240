@@ -1,0 +1,10 @@
+id: EPD0154A10A3
+category: displays
+size: "1.54"
+panel: epd
+resolution: 240x240
+interface: [spi]
+driver: IST7513
+touch: null
+outline: 31.8 x 37.32 x 0.85 mm
+active_area: 27 x 27 mm
